@@ -1,10 +1,19 @@
 ## Hi there 👋
 
-- I am a Computer Engineering Student at [Politecnico di Torino](https://www.polito.it).  
-- In this profile I post:
-  - certificates of the courses I followed from renowed online schools such as [amigoscode](https://www.amigoscode.com), [codewithmosh](https://www.codewithmosh.com) and more...
-  - open source projects developed to further enhance my programming skills
-- I am mainly focusing on developing **Microservices** architecture based application using **Spring Boot** that I can easily deploy to **Kubernetes** on the **Cloud**.
-- I am passionate about every aspect of technology in general and always eager to learn something new.
+🎓 I’m a **Computer Engineering student** at [Politecnico di Torino](https://www.polito.it), passionate about building real-world, production-grade software.
 
-> Let's connect on [linkedIn](https://www.linkedin.com/in/davide-bianco-8b94a0311/)!
+📚 I continuously learn from top-tier online platforms such as:  
+- [MITx](https://mitxonline.mit.edu) — deepening my understanding of computer science and AI fundamentals  
+- [Amigoscode](https://www.amigoscode.com) — mastering modern backend development with Spring Boot and DevOps tools  
+- [Code with Mosh](https://www.codewithmosh.com) — refining practical full-stack and software engineering skills  
+
+🚀 My focus areas include:  
+- **Backend & Cloud:** Spring Boot, Docker, Kubernetes, and AWS  
+- **Data & Databases:** PostgreSQL, MongoDB  
+- **AI & Machine Learning:** Python, from Linear Models to Deep Learning
+
+💡 I enjoy working on **open-source and side projects** that turn ideas into code — from backend microservices to full-stack web applications — many of which you can find right here on my GitHub.
+
+🌟 I’m eager to apply my skills in real-world IT projects, keep learning cutting-edge technologies, and grow as an engineer who bridges software and intelligence.
+
+> Let’s connect on [LinkedIn](https://www.linkedin.com/in/davide-bianco-8b94a0311/)!
